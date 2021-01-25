@@ -1,0 +1,7 @@
+tensorflow==1.4.0
+numpy
+scipy
+scikit-learn
+opencv-python
+imutils
+
